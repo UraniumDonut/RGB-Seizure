@@ -45,7 +45,7 @@ INCLUDES    :=  include
 #ROMFS      :=  romfs
 APP_TITLE   :=  RGB-Seizure
 APP_AUTHOR  :=  Xpl0itR
-APP_VERSION :=  1.1.0
+APP_VERSION :=  1.1.1
 APP_TITLEID :=  051337133769A000
 
 #---------------------------------------------------------------------------------

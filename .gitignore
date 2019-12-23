@@ -1,0 +1,10 @@
+
+*.nro
+
+*.nacp
+
+*.elf
+
+build/
+
+.vs/
