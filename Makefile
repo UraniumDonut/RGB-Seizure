@@ -37,15 +37,15 @@ include $(DEVKITPRO)/libnx/switch_rules
 #   of a homebrew executable (.nro). This is intended to be used for sysmodules.
 #   NACP building is skipped as well.
 #---------------------------------------------------------------------------------
-TARGET      :=  $(notdir $(CURDIR))
-BUILD       :=  build
-SOURCES     :=  source
-DATA        :=  data
-INCLUDES    :=  include
-#ROMFS      :=  romfs
+TARGET		:=	$(notdir $(CURDIR))
+BUILD		:=	build
+SOURCES		:=	source
+DATA		:=	data
+INCLUDES	:=	include
+#ROMFS	    :=	romfs
 APP_TITLE   :=  RGB-Seizure
-APP_AUTHOR  :=  Xpl0itR
-APP_VERSION :=  1.1.1
+APP_AUTHOR  :=  UraniumDonut
+APP_VERSION :=  2.0
 APP_TITLEID :=  051337133769A000
 
 #---------------------------------------------------------------------------------
